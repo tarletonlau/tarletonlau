@@ -24,7 +24,7 @@ The thrill of hackathons and innovation competitions.
 How to transition from economics to coding apps that make life easier.
 
 ## 📫 How to reach me:
-(LinkedIn)[https://www.linkedin.com/in/tarleton-lau-884a694b/]: Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/tarleton-lau-884a694b/): Let's Connect!
 
 ## 🤝 Open to:
 Coffee chats in Singapore or virtual meetups.

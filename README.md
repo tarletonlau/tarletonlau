@@ -24,7 +24,7 @@ The thrill of hackathons and innovation competitions.
 How to transition from economics to coding apps that make life easier.
 
 ## 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/tarleton-lau-884a694b/): Let's Connect!
+LinkedIn: [Let's Connect!](https://www.linkedin.com/in/tarleton-lau-884a694b/)
 
 ## 🤝 Open to:
 Coffee chats in Singapore or virtual meetups.
@@ -33,4 +33,5 @@ Sharing experiences about studying abroad and working in the tech industry.
 
 ## Try My Applications:
 Here are some of the (deployed) Apps that I built along the way.
-(Virtuals.tech)[https://www.virtuals.tech] An AI search platform for busineses to find virtual influencers
+
+[Virtuals.tech](https://www.virtuals.tech) An AI search platform for busineses to find virtual influencers
